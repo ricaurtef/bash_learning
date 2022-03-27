@@ -1,0 +1,4 @@
+21: main
+12: read -rp 'Enter the input: ' val
+13: ((  val > 0  ))
+14: echo 'Positive number entered.'
